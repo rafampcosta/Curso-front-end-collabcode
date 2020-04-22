@@ -1,0 +1,27 @@
+Pessoas/SEO
+
+Tag
+
+<nomeDaTag> = tag de abertura
+</nomeDaTag> = tag de fechamento
+
+h = heading 1 - 6 (3)
+
+Logo mirror fashion image
+
+Titulo A Mirror fashion
+<h1>A Mirror Fashion</h1>
+
+Paragrafo: A Mirror Fashion é a maior empresa...
+<p>A Mirror Fashion é a maior empresa...</p>
+
+Paragrafo: Nosso centro de distribuição...
+<p>Nosso centro de distribuição...</p>
+
+Foto: Centro distribuição da Mirror Fashion
+
+Paragrafo: Compre suas roupas e acessórios...
+<p>Compre suas roupas e acessórios...</p>
+
+Subtitulo: História
+<h2>História</h2>
