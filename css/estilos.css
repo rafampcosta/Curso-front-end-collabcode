@@ -4,14 +4,14 @@ body {
 }
 
 .sacola {
-background-image: url(/home/rafampcosta/Collabcode/Curso-Front-End/Curso-front-end-collabcode/img/sacola.png);
-background-repeat: no-repeat;
-background-position: top right;
+    background-image: url(../img/sacola.png);
+    background-repeat: no-repeat;
+    background-position: top right;
 
-font-size: 14px;
-padding-right: 35px;
-text-align: right;
-width: 140px;
+    font-size: 14px;
+    padding-right: 35px;
+    text-align: right;
+    width: 140px;
 }
 
 .menu-opcoes ul {
