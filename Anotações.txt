@@ -22,6 +22,21 @@
     Margin com 4 valores:
     margin: top right bottom left;
 
+**Display block 
+- Usa a linha toda
+- Altura é definida pelo conteúdo
+- Pode ser utilizado para largura e altura (width e height)
+- Não é possível por padrão colocar um elemento ao lado
+
+**Display inline
+- Largura e altura são definidas pelo conteúdo
+- Os elementos ficam um ao lado do outro
+- Por padrão não funciona largura e altura (width e height)
+- Ganha o comportamento de uma palavra
+
+**Display inline-block
+
+
 Links
 
 - a = anchor
