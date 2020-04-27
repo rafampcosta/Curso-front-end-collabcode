@@ -37,6 +37,17 @@
 **Display inline-block
 
 
+**Position
+
+Default (padrão Browser): static;
+- static : não se move (Fred na Copa)
+
+- absolute : cria um novo contexto. Muda os elementos de acordo com a visão da página. Para alterar o left, right, bottom e top a referência é o navegador. Para respeitar o position do item pai tem que ser diferente de static.
+
+- relative : onde o elemento foi criado quando ele era static (left, right, top, bottom). Deslocamento do elemento na tela.
+
+- fixed : similiar ao absolute só que acompanha o scroll do mouse. Normalmente usado no head e/ou sidebar.
+
 Links
 
 - a = anchor
