@@ -35,7 +35,7 @@
 - Ganha o comportamento de uma palavra
 
 **Display inline-block
-
+- 
 
 **Position
 
@@ -47,6 +47,10 @@ Default (padrão Browser): static;
 - relative : onde o elemento foi criado quando ele era static (left, right, top, bottom). Deslocamento do elemento na tela.
 
 - fixed : similiar ao absolute só que acompanha o scroll do mouse. Normalmente usado no head e/ou sidebar.
+
+**Float
+- Novo contexto diferente de absolute
+- Nunca esconde um conteúdo (img e texto), inline e inline-block.
 
 Links
 
