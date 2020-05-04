@@ -35,7 +35,9 @@
 - Ganha o comportamento de uma palavra
 
 **Display inline-block
-- 
+- É possível definir width e height
+- Ficam na mesma linha
+- Tem comportamento de palavra
 
 **Position
 
