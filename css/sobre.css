@@ -50,6 +50,53 @@ figcaption {
     margin: 0 0 10px 10px;
 }
 
+.container {
+    margin: 0 auto;
+    width: 940px;
+}
+
+footer {
+    background-image: url(../img/fundo-rodape.png);
+    clear: both;
+
+    padding: 20px 0;
+}
+
+footer .container {
+    position: relative;
+}
+
+.social {
+    position: absolute;
+    top: 12px;
+    right: 0;
+}
+
+.social li {
+    float: left;
+    margin-left: 25px;
+}
+
+.social a {
+    height: 32px;
+    width: 32px;
+
+    display: block;
+    text-indent: -9999px;
+}
+
+.social a[href*="facebook.com"] {
+    background-image: url(../img/logo-do-facebook.png);
+}
+
+.social a[href*="twitter.com"] {
+    background-image: url(../img/logo-twitter.png);
+}
+
+.social a[href*="instagram.com"] {
+    background-image: url(../img/logo-instagram.png);
+}
+
 #rodape {
     color: #777;
     margin: 30px 0;
@@ -60,5 +107,6 @@ figcaption {
     margin-right: 30px;
     vertical-align: middle;
     width: 94px;
-
 }
+
+/*AJUSTAR FOOTER PARA APARECER NA PÁGINA TODA*/
