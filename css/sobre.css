@@ -3,6 +3,10 @@
 body {
     color: #333333;
     font-family: 'Roboto', 'Overpass', Arial, sans-serif; 
+    
+}
+
+.Artigo {
     margin: 0 auto;
     /****forma individualizada do margin
     margin-left: auto;
@@ -53,6 +57,10 @@ figcaption {
 .container {
     margin: 0 auto;
     width: 940px;
+}
+
+.Diferenciais {
+    margin-bottom: 25px;
 }
 
 footer {
@@ -108,5 +116,3 @@ footer .container {
     vertical-align: middle;
     width: 94px;
 }
-
-/*AJUSTAR FOOTER PARA APARECER NA PÁGINA TODA*/
